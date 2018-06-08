@@ -1,7 +1,3 @@
-# test
-
-> test
-
 ## Build Setup
 
 ``` bash
